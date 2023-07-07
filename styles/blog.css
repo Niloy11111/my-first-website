@@ -1,0 +1,32 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+nav{
+    display: flex;
+}
+.nav-title{
+    color: #181818;
+    font-weight: 800;
+    font-size:45px;
+}
+.text-area{
+    color:#fd6E0A
+}
+nav > ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+nav a{
+    color: #474744;
+}
+.btn-primary{
+    border-radius: 5px;
+background: #FD6E0A;
+border: 0;
+color:white;
+font-size: 20px;
+font-weight: 700;
+}
