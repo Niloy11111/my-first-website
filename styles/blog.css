@@ -80,7 +80,22 @@ text-align: center;
 font-size: 18px;
 }
 
-/* main section styles */
+/* /* main section styles  */
+
+main{
+    max-width: 1140px;
+    margin: 0px auto;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
+}
+
+
+
 
 /* about section styles */
 .about{
@@ -89,3 +104,4 @@ font-size: 18px;
     border-radius: 10px;
     margin: 130px 0;
 }
+
